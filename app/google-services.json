@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455118218235",
+    "firebase_url": "https://protectlife-d2d33.firebaseio.com",
+    "project_id": "protectlife-d2d33",
+    "storage_bucket": "protectlife-d2d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455118218235:android:0e87b86214fabaf2e0215e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455118218235-hteiqsj84fbeesr4hblfn6bmqt7ftu5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "6ea831baf6c1aee5b6c9c6227aa3de5898d505d5"
+          }
+        },
+        {
+          "client_id": "455118218235-p428uv0t6klo2k6u2ng8vciloabeb8gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP2x-8a2wqfnAPQukBojxciZC3TaGpv5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455118218235-p428uv0t6klo2k6u2ng8vciloabeb8gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
